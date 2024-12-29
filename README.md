@@ -20,3 +20,9 @@ The project is divided into the following stages:
 
 ## Contributions
 Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## Acknowledgments
+
+This project was inspired by Krish Naik's course on Generative AI. Special thanks to Krish Naik for his insights and guidance.
+
+--- 
